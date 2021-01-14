@@ -1,0 +1,23 @@
+#first-text{
+    color: chocolate;
+}
+#second-text{
+    color: midnightblue;
+}
+#third-text{
+    color: goldenrod
+}
+.navbar-brand img{
+    width: 300px;
+}
+.navbar-nav{
+    padding-left: 300px;
+}
+
+.row img{
+    width: 80%;
+    padding-right: 20%;
+}
+.btn-success img{
+    width: 40%;
+}
